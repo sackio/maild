@@ -37,7 +37,7 @@
     "imap": "*"
   , "mailparser": "*"
   , "async": "*"
-  , "nodemailer": "*"
+  , "nodemailer": "0.7.1"
   , "request": "*"
   , "jsbelt": "*"
   , "optionall": "*"
