@@ -1,7 +1,7 @@
 {
   "name": "maild",
   "description": "Stuff for working with email",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "homepage": "https://github.com/sackio/maild",
   "author": {
     "name": "Ben Sack",
